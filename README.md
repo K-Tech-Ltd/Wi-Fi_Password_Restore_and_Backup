@@ -7,3 +7,5 @@ Some Bat files to open that will Backup your Wi-Fi Passwords in .xml files in pl
 
 To Back up passwords just double-click or open the Backup file
 To Restore just double-click or open the restore file
+# Note 
+This only works if you save the passwords on your system
